@@ -37,6 +37,7 @@ In order for Create_Dataset.py to work, you will need to configure a new environ
 	conda env create -f environment.yaml
 	conda activate midas-py310 
 
+We followed the isl-team's github for midas setup: https://github.com/isl-org/MiDaS/tree/master
 We included the .yaml file with our submission.
 
 ******************************************************************************
